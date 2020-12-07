@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "거래번호 채번"
+categories:
+  - Tech
 comments: true
 tags: [거래번호, 채번테이블]
 ---
