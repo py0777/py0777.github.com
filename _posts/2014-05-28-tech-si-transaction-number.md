@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 거래번호 채번
+title: "거래번호 채번"
 comments: true
 tags: [거래번호, 채번테이블]
+---
 
 ## 거래번호 채번
 
