@@ -1,3 +1,17 @@
+---
+title: "이체와대체"
+categories:
+
+  - Tech
+tags: 
+  - 이체와대체
+  - 증권
+  - 금융IT
+toc: true
+toc_sticky: true
+toc_label: 목차
+popular: true
+---
 ## 대체와 이체 는 금융사 출납또는 뱅킹 파트에서 많이 사용하는 업무이다.
 
 > 대체는 A증권사의 1번계좌와 2번계좌간의 자금의 이동을 대체라고 한다.
