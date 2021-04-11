@@ -62,6 +62,8 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+google_analytics_id: UA-80265650-1
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
