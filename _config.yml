@@ -62,7 +62,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-g-analytics: UA-80265650-1
+g-analytics: G-KQGD0D7RM2
 
 # SEO Related
 google_site_verification :
