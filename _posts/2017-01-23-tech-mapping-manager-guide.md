@@ -17,7 +17,7 @@
 
 [맵핑매니저가이드](https://drive.google.com/file/d/1YzIn5ms8K06ShJF9gUuycriIfl11m3BT/view?usp=sharing)
 
-#WOW
+
 
 다시 금융 차세대 프로젝트에 투입되었습니다. 이제 막 분석/설계 단계가 끝이나고 개발단계에 진입하려고 있습니다.
 
