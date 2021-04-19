@@ -5,7 +5,18 @@ permalink: /about/
 author_profile: true
 ---
 
-```
+![image](https://py0777.github.io/assets/image/myimage.jpg)
+
+## 이 름: 박영
+
+## 직 업: 시스템엔지니어 및 프로젝트 관리자
+
+## 기억에 남는 프로젝트: 08년~09년 참여한 아래 사진의 프로젝트(월화수목 금금금)
+
+![image](https://media-exp1.licdn.com/dms/image/C4E2DAQHL30mmk3O9Tw/profile-treasury-image-shrink_1920_1920/0/1618435539123?e=1618920000&v=beta&t=lW4S4K1cjD8jr6c1FR8GYx5a4cEpWSH1HWmKzq0Rres)
+
+---
+
 SI 개발자로 일을 시작해 시키는 것은 다 잘할려고 노력 함.
 
 – 현재는 개발과 동시에 후배들 리딩, 선배들과 조율 하는 중간역할을 수행
@@ -21,7 +32,8 @@ SI 개발자로 일을 시작해 시키는 것은 다 잘할려고 노력 함.
 2. 개발관련 R&R(Role and Responsivility) 문제시 ‘내가 틀렸을 수 도 있다.’는 마음으로 조심스럽게 접근함. 신입개발자일때 ‘너가 틀렸어.’ 방식으로 접근하다 큰 코 다친 이후로 항상 조심함.
 
 3. 산책과 커피를 좋아해 동료또는 고객과 차마시며 산책을 즐김.
-```
+
+---
 
 ## <프로젝트 경력>
 
