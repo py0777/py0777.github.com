@@ -14,7 +14,7 @@
 ---
 # **맵핑정의서 등록 프로그램**
 
-> 이 이아디어는 앞선 [ASIS SQL을 TOBE SQL변환](http://www.py0777.com/asis-sql-tobe-slq/) 과 이어지는 아이디어 입니다.
+> 이 이아디어는 앞선 [ASIS SQL을 TOBE SQL변환](https://py0777.github.io/tech/tech-sql-transfer/) 과 이어지는 아이디어 입니다.
 
 ## **배경**
 

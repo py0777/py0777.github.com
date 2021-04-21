@@ -30,7 +30,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 
 ### <예수금>
 
-[caption id="attachment_616" align="alignnone" width="681"][![예수금](http://www.py0777.com/wp-content/uploads/2015/04/DNCA.jpg)](http://www.py0777.com/wp-content/uploads/2015/04/DNCA.jpg)**상품별관리  -> 금액별 관리**[/caption]
+
 
 ### TOBE 예수금테이블의 특징
 
