@@ -29,7 +29,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 ## 1. 테이블
 
 ### <예수금>
-
+![title](https://py0777.github.io/assets/image/tech-tobe-trdtl_1.jpg){: width="300" height="200"}
 
 
 ### TOBE 예수금테이블의 특징
@@ -43,6 +43,8 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 4) ASIS 대비 업무적 연관도가 낮은 속성을 별도 관리함으로 거래 발생시 예수금과 관련없는 속성의 갱신작업으로 인해 거래지연 발생하지 않음.
 
 ### <거래내역>
+
+![title](https://py0777.github.io/assets/image/tech-tobe-trdtl_2.jpg){: width="300" height="200"}
 
 **상품별 관리 -> 중복속성 통합 및 업무별, 상품별속성은 서브테이블로 분리**
 
@@ -63,6 +65,8 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
  
 
 ## 2. 프로그램
+
+![title](https://py0777.github.io/assets/image/tech-tobe-trdtl_3.jpg){: width="300" height="200"}
 
 **상품별 관리 -> 기능별로 분리**
 
