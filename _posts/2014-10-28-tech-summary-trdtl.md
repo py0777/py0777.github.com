@@ -12,9 +12,9 @@ toc_label: 목차
 popular: true
 ---
 
-(![image](https://py0777.github.io/assets/image/summary-trdtl/summary-trdtl_1.jpg)
+![image](https://py0777.github.io/assets/image/summary-trdtl/summary-trdtl_1.jpg)
 
-(![image](https://py0777.github.io/assets/image/summary-trdtl/summary-trdtl_2.jpg)
+![image](https://py0777.github.io/assets/image/summary-trdtl/summary-trdtl_2.jpg)
 
 # **거래내역 통합방안**
 
