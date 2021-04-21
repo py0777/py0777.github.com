@@ -15,7 +15,7 @@
 
 access connect postgresql
 
-프로젝트 수행시 일정 및 범위 산정시 중요한 자료가 프로그램 개발목록 입니다. 앞서 [개발목록 ](http://www.py0777.com/개발목록/)포스트에도 언급했지만, 개발자들은 자신이 개발해야 하는 목록및 개발진척 등록 목적으로 사용하고 있고, 품질 담당자는 모든 개발자의 개발목록을 취합해 관리자에게 프로젝트 진행상황을 보여줄 수 있는 자료로 활용하고 있습니다.
+프로젝트 수행시 일정 및 범위 산정시 중요한 자료가 프로그램 개발목록 입니다. 앞서 [개발목록 ](https://py0777.github.io/tech/tech-dev-list/)포스트에도 언급했지만, 개발자들은 자신이 개발해야 하는 목록및 개발진척 등록 목적으로 사용하고 있고, 품질 담당자는 모든 개발자의 개발목록을 취합해 관리자에게 프로젝트 진행상황을 보여줄 수 있는 자료로 활용하고 있습니다.
 
 개인적인 경험상 MS의 쉐어포인트로 개발목록을 관리하는 것이 쉽고, 개발목록 작업시 많은 시간을 절약해 주었습니다. 하지만 MS라이센스비용을 지불해야 함으로 다른방법들이 고려하게 되었습니다.
 
@@ -36,58 +36,49 @@ access connect postgresql
 
 **4. 추가버튼 클릭**
 
-[![PMS5](http://www.py0777.com/wp-content/uploads/2015/06/PMS5-300x211.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS5.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_1.jpg)
 
 **5. PostgreSQL 드라이버 선택 후 마침버튼 클릭**
 
-[![PMS2](http://www.py0777.com/wp-content/uploads/2015/06/PMS2-300x175.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS2.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_2.jpg)
 
 **6. 서버에 설치된 PostgreSql 접속정보를 입력 후 Test 버튼 클릭**
 
 **- PostgreSql 관리자는 외부접속 가능하도록 열어져 있어야합니다. (postgresql.conf 파일과 pg_hba.conf 파일 설정)**
 
-[![PMS3](http://www.py0777.com/wp-content/uploads/2015/06/PMS3-300x165.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS3.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_3.jpg)
 
 **7. 메시지를 확인 확인 후 Save 버튼을 클릭합니다.**
 
-[![PMS4](http://www.py0777.com/wp-content/uploads/2015/06/PMS4-300x211.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS4.jpg)
-
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_4.jpg)
  
 
 **8. ODBC 데이터 원본 관리자에서 추가한 드라이버를 선택하고 확인버튼 클릭**
 
-[![PMS5](http://www.py0777.com/wp-content/uploads/2015/06/PMS5-300x211.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS5.jpg)
-
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_5.jpg)
  
 
 **9. ACCESS파일을 열고, 외부데이터-> ODBC데이터베이스 선택**
 
-[![PMS6](http://www.py0777.com/wp-content/uploads/2015/06/PMS6-300x222.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS6.jpg)
-
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_6.jpg)
 **10. 연결 테이블을 만들어 데이터 원본에 연결 선택 후 확인버튼 클릭**
 
-[![PMS7](http://www.py0777.com/wp-content/uploads/2015/06/PMS7-300x220.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS7.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_7.jpg)
 
 **11. 컴퓨터 데이터 원본 탭에서 PostgreSQL 선택 후 확인버튼 클릭**
-
-[![PMS8](http://www.py0777.com/wp-content/uploads/2015/06/PMS8-300x202.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS8.jpg)
-
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_8.jpg)
  
 
 **12. 연결할 테이블 선택 후 확인버튼 클릭**
-
-[![PMS9](http://www.py0777.com/wp-content/uploads/2015/06/PMS9-300x224.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS9.jpg)
-
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_9.jpg)
  
 
 **13. ACCESS 화면 좌측에 PostgreSql test테이블이 보이고, 데이터 시트엔 test 의  레코드가 보입니다.**
 
 **( ACCESS에서 데이터수정및 추가가 가능합니다. 단, 추가를 하기위해서 test테이블은 pk가 존재하는 테이블이어야 합니다.)**
-
-[![PMS10](http://www.py0777.com/wp-content/uploads/2015/06/PMS10-300x223.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS10.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_10.jpg)
 
  
 
 **14. PostgreSql에서 데이터를 확인해 봅니다.**
-
-[![PMS11](http://www.py0777.com/wp-content/uploads/2015/06/PMS11-300x280.jpg)](http://www.py0777.com/wp-content/uploads/2015/06/PMS11.jpg)
+(![image](https://py0777.github.io/assets/image/tech-access/tech-access_11.jpg)
