@@ -29,7 +29,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 ## 1. 테이블
 
 ### <예수금>
-![image](https://py0777.github.io/assets/image/tech-tobe-trdtl_1.jpg){: width="300" height="200"}
+![image](https://py0777.github.io/assets/image/tech-tobe-trdtl_1.jpg)
 
 **상품별관리  -> 금액별 관리**
 
@@ -45,7 +45,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 
 ### <거래내역>
 
-![image](https://py0777.github.io/assets/image/tech-tobe-trdtl_2.jpg){: width="300" height="200"}
+![image](https://py0777.github.io/assets/image/tech-tobe-trdtl_2.jpg)
 
 **상품별 관리 -> 중복속성 통합 및 업무별, 상품별속성은 서브테이블로 분리**
 
@@ -67,7 +67,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 
 ## 2. 프로그램
 
-![title](https://py0777.github.io/assets/image/tech-tobe-trdtl_3.jpg){: width="300" height="200"}
+![title](https://py0777.github.io/assets/image/tech-tobe-trdtl_3.jpg)
 
 **상품별 관리 -> 기능별로 분리**
 
