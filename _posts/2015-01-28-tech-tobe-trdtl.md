@@ -44,7 +44,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 
 ### <거래내역>
 
-[caption id="attachment_617" align="alignnone" width="693"][![거래내역](http://www.py0777.com/wp-content/uploads/2015/04/TRDTL.jpg)](http://www.py0777.com/wp-content/uploads/2015/04/TRDTL.jpg)**상품별 관리 -> 중복속성 통합 및 업무별, 상품별속성은 서브테이블로 분리**[/caption]
+**상품별 관리 -> 중복속성 통합 및 업무별, 상품별속성은 서브테이블로 분리**
 
 ### TOBE거래내역 테이블의 특징
 
@@ -64,7 +64,7 @@ KOSCOM에서 1990년대 말에서 2000년대 초 원장이관을 했던 증권�
 
 ## 2. 프로그램
 
-[caption id="attachment_618" align="alignnone" width="672"][![프로그램](http://www.py0777.com/wp-content/uploads/2015/04/PGM.jpg)](http://www.py0777.com/wp-content/uploads/2015/04/PGM.jpg)**상품별 관리 -> 기능별로 분리**[/caption]
+**상품별 관리 -> 기능별로 분리**
 
 ### TOBE 출납 프로그램의 특징
 
