@@ -1,5 +1,5 @@
 ---
-  title: **asw에 jenkins 설치**
+  title: 'asw에 jenkins 설치'
   categories:
 
     - Tech
