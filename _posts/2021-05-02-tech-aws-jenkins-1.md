@@ -1,10 +1,10 @@
 ---
-  title: "asw에 jenkins 설치"
+  title: "aws에 jenkins 설치"
   categories:
 
     - Tech
   tags: 
-    - asw에 jenkins 설치
+    - aws에 jenkins 설치
     - aws
     - jenkins
   toc: true
