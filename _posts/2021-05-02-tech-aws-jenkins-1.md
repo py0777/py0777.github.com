@@ -13,7 +13,7 @@
   popular: true
 ---
 
-# asw에 jenkins 설치 1
+# AWS에 jenkins 설치
 
 ## 1. AWS | EC2에  JAVA 설치
 아래 블로그를 참고 바란다.
@@ -23,12 +23,13 @@
 ## 2. AWS JENKINS 설치
 아래 블로그를 참고 바란다.
 [aws ec2 JENKINS설치](https://goddaehee.tistory.com/82){: .btn.btn-default target="_blank" }
-기존 : 8080 --> 9100 으로 
+
+기존 : 8080 --> 9100 으로 변경은 
 ```bash
 $ sudo vi /etc/sysconfig/jenkins
 ```
 JENKINS_PORT="8080"
-=> JENKINS_PORT="9100"
+=> JENKINS_PORT="9100" 
 참고로 aws port 오픈은 aws 관리화면에서 진행하기 바란다. firewall 명령어가 정상작동하지 않는다.
 
 ## 3. jenkins 시작과 종료
