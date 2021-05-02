@@ -20,7 +20,6 @@
 
 [aws ec2 java설치](https://gaemi606.tistory.com/entry/AWS-EC2%EC%97%90-JAVA%EC%84%A4%EC%B9%98-%EB%B0%8F-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95){: .btn.btn-default target="_blank" }
 
-
 ## 2. AWS JENKINS 설치
 아래 블로그를 참고 바란다. 
 
@@ -30,8 +29,8 @@
 ```bash
 $ sudo vi /etc/sysconfig/jenkins
 ```
-JENKINS_PORT="8080"
-=> JENKINS_PORT="9100" 
+JENKINS_PORT="8080"=> JENKINS_PORT="9100" 
+
 참고로 aws port 오픈은 aws 관리화면에서 진행하기 바란다. firewall 명령어가 정상작동하지 않는다.
 
 ## 3. jenkins 시작과 종료
