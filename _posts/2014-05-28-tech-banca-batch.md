@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: 목차
 popular: true
 ---
-
+![image](https://py0777.github.io/assets/image/banca-batch/banca-batch_1.jpg)
 ## **방카슈랑스 보험사 배치**
 
 #### **보험사 배치**
@@ -29,13 +29,11 @@ popular: true
 
 \5. 프로그램에서 오류 발생시 오류내역을 특정 테이블에 닮아 두고, 오류내역을 파일로만들어 정해진 시간마다 보험사로 보냄.  (증권번호 미존재, 데이터 갯수 틑림등 보험사에서 조치해 줘야할 내용을 보냅니다. 은행이체전문처럼 실시간으로 보내진 않습니다.)
 
-[![insurance table](http://www.py0777.com/wp-content/uploads/2014/08/insurance-table.jpg)](http://www.py0777.com/wp-content/uploads/2014/08/insurance-table.jpg)
+![image](https://py0777.github.io/assets/image/banca-batch/banca-batch_2.jpg)
 
 ```uml
 df
 ```
-
-
 
 ```SQL
 /*보험사배치 추출 SQL*/
@@ -72,8 +70,6 @@ SELECT  A.담당자
    AND  B.오류유형구분 = '2'  /*2: 비즈니스오류 3:시스템오류*/
 ```
 
- 
-
- **생각해볼 문제**
+**생각해볼 문제**
 
 은행에서 보험사 배치중 일부는 API형태로 보험사에 제공하는 것도 좋을 듯합니다. 계약의 변경상태를 보험사와 은행간 실시간으로 SYNC를 맞출수 있어 정보차이를 줄일 수 있습니다. 파일송수신 배치프로그램이 늘어날수록 은행/보험사의 파일저장공간을 늘려야 하고, 파일수신여부를 보험사에 확인해줘야 하는 귀찮은 일이 늘어나게 됩니다.
