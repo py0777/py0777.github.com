@@ -38,9 +38,9 @@ npm ERR! gyp verb cli   '/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.Nod
 npm ERR! gyp verb cli   '/var/lib/jenkins/workspace/gardener-FE/node_modules/node-gyp/bin/node-gyp.js',
 npm ERR! gyp verb cli   'rebuild',
 ```
-
-> 그래서 각 버전을 확인해 봤다.
+그래서 각 버전을 확인해 봤다.
 ## 1. 로컬
+
 ```bash
 D:\git\gardener-fe>node -v
 v14.16.0
@@ -48,13 +48,16 @@ v14.16.0
 D:\git\gardener-fe>npm -v
 6.14.11
 ```
+
 ## 2. aws ec2-user 
+
 ```bash
 [ec2-user@ip-172-31-15-85 workspace]$ npm -v
 6.13.4
 [ec2-user@ip-172-31-15-85 workspace]$ node -v
 v12.16.0
 ```
+
 ## 3. jenkins는 build영역에 shell 명령어를 작성해 보았다.
 ![image align="left"](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png)
 
