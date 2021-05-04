@@ -61,12 +61,12 @@ npm ERR! gyp verb cli   'rebuild',
   
 ![image](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png)
    
- >  결과는 
-![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png)
-   + npm -v
-    7.10.0
-    + node -v
-    v16.0.0
+ ### 결과는 
+ > ![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png)
+ >  + npm -v
+ >   7.10.0
+ >   + node -v
+ >   v16.0.0
    
 ## 4 jenkins 관리화면에서 nodejs 버전을 낮춰보았다.
   ![image](https://user-images.githubusercontent.com/7609848/117033214-1d3bca00-ad3d-11eb-8c17-d4ab6f5f6b60.png)
