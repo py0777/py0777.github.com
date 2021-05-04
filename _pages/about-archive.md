@@ -1,6 +1,6 @@
 ---
 title: "Posts by about"
-layout: about
+layout: default
 permalink: /about/
 author_profile: true
 ---
