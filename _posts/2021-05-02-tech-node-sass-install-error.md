@@ -59,10 +59,10 @@ npm ERR! gyp verb cli   'rebuild',
   ```
 ## 3 jenkins는 build영역에 shell 명령어를 작성해 보았다.
   
-   ![image](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png)
+![image](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png)
    
  >  결과는 
-   ![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png)
+![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png)
    + npm -v
     7.10.0
     + node -v
