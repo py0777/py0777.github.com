@@ -1,6 +1,6 @@
 ---
 title: "Posts by about"
-layout: default
+layout: home
 permalink: /about/
 author_profile: true
 ---
@@ -10,8 +10,6 @@ author_profile: true
 이 름: |박영
 직 업: |시스템엔지니어 및 프로젝트 관리자
 기억에 남는 프로젝트: |08년~09년 참여한 아래 사진의 프로젝트(월화수목 금금금)
-
-![image](https://media-exp1.licdn.com/dms/image/C4E2DAQHL30mmk3O9Tw/profile-treasury-image-shrink_1920_1920/0/1618435539123?e=1618920000&v=beta&t=lW4S4K1cjD8jr6c1FR8GYx5a4cEpWSH1HWmKzq0Rres)
 
 ---
 
