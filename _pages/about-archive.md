@@ -30,7 +30,7 @@ author_profile: true
 
 ---
 
-<h2 class="section-heading2" >프로젝트 경험</h2>
+## 프로젝트 경험
 
 ---
 
@@ -132,7 +132,7 @@ author_profile: true
 
 – 은행연계망 이체시스템 개발( 당시 지급결제망 이전임. 이후 대신증권은 지급결제망 프로젝트를 진행함.)
 
-<h2 class="section-heading2" >기 술</h2>
+## 기 술
 
 ---
 
