@@ -13,9 +13,6 @@
   toc_label: 목차
   popular: true
 ---
-
-
-
 # node-sass install error
 
 ## 1. 원인은 간단하다.
@@ -59,24 +56,24 @@ npm ERR! gyp verb cli   'rebuild',
   ```
 ## 3 jenkins는 build영역에 shell 명령어를 작성해 보았다.
   
-> ![image](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png)
+> ![image](https://user-images.githubusercontent.com/7609848/117032627-9850b080-ad3c-11eb-9080-e0839e47d1f9.png) {:.alignleft}
    
  ### 결과는 
- > ![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png)
+ > ![image](https://user-images.githubusercontent.com/7609848/117032822-c504c800-ad3c-11eb-90ea-e94e9ffb49bf.png) {:.alignleft}
  >  + npm -v
  >   7.10.0
  >   + node -v
  >   v16.0.0
    
 ## 4 jenkins 관리화면에서 nodejs 버전을 낮춰보았다.
-> ![image](https://user-images.githubusercontent.com/7609848/117033214-1d3bca00-ad3d-11eb-8c17-d4ab6f5f6b60.png) 
-> ![image](https://user-images.githubusercontent.com/7609848/117033491-5f650b80-ad3d-11eb-99db-2e7cf1fdcb71.png) 
-> ![image](https://user-images.githubusercontent.com/7609848/117033569-73a90880-ad3d-11eb-9f0e-aa10ce6a3dcb.png) 
-> ![image](https://user-images.githubusercontent.com/7609848/117033621-81f72480-ad3d-11eb-943d-bb6d0026802c.png) 
+> ![image](https://user-images.githubusercontent.com/7609848/117033214-1d3bca00-ad3d-11eb-8c17-d4ab6f5f6b60.png) {:.alignleft}
+> ![image](https://user-images.githubusercontent.com/7609848/117033491-5f650b80-ad3d-11eb-99db-2e7cf1fdcb71.png) {:.alignleft}
+> ![image](https://user-images.githubusercontent.com/7609848/117033569-73a90880-ad3d-11eb-9f0e-aa10ce6a3dcb.png) {:.alignleft}
+> ![image](https://user-images.githubusercontent.com/7609848/117033621-81f72480-ad3d-11eb-943d-bb6d0026802c.png) {:.alignleft}
 
 ## 5 결과는 성공
-> ![image](https://user-images.githubusercontent.com/7609848/117033744-a521d400-ad3d-11eb-9225-c56503ec8816.png) 
-> ![image](https://user-images.githubusercontent.com/7609848/117033802-b1a62c80-ad3d-11eb-911b-a07983d46300.png)
+> ![image](https://user-images.githubusercontent.com/7609848/117033744-a521d400-ad3d-11eb-9225-c56503ec8816.png) {:.alignleft}
+> ![image](https://user-images.githubusercontent.com/7609848/117033802-b1a62c80-ad3d-11eb-911b-a07983d46300.png) {:.alignleft}
 
 ## 6 결론은 node-sass install error는 nodeJS 버전문제다.
 > 버전을 낮춰서 build 해보시길 바란다.
