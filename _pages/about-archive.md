@@ -66,8 +66,7 @@ author_profile: true
 
 ### 롯데손해보험 차세대 프로젝트(2018.01 ~ 2019.03)
 
-– 역할: 관리업무 subPL(업무공통/준법감시/감사/정보보호/총무)
-
+- 역할: 관리업무 subPL(업무공통/준법감시/감사/정보보호/총무)
 - 프로젝트 목표: 롯데손해보험 차세대 시스템 구축
 - 기술사항: java, ncrm, oracle
 - 특이사항: H보험 package를 이용해 주요업무는 전환함.
@@ -75,44 +74,40 @@ author_profile: true
 
 ### 예탁원 전자증권 사전제안 및 제안작업(2017.05 ~ 2017.12)
 
-– 역할: 프로젝트 정보 수집 및 제안서 작성
+- 역할: 프로젝트 정보 수집 및 제안서 작성
 
 ### 하나금융투자 안정화 프로젝트(2016.11 ~ 2017.03)
 
-– 역할: 안정화 PM
-
-- 프로젝트 목표: 차세대 시스템 오픈 후 Day2프로젝트 수행
+- 역할: 안정화 PM
+- 프로젝트 목표: 차세대 시스템 오픈 후 Day2 프로젝트 수행
 
 ### 하나대투증권 차세대 프로젝트(2015.02 ~ 2016.11)
 
-– 역할 : 출납 입출금 설계 및 sub PL
-
+- 역할 : 출납 입출금 설계 및 sub PL
 - 프로젝트 목표: 증권 차세대 시스템 구축. 10년 넘게 사용한 시스템(코스콤 원장이관)을 java 기반으로 전환.
   주요 과제로는 통합 거래내역, 통합잔고, 종합계좌 개설, 주문속도 개선 등
 - 기술: JAVA, TMAX Pro Object 프레임웍, Oracle, ETL, Control M
 
 ### SKT DCB소액결제 고도화(2014.11 ~ 2015.02)
 
-– 역할: 소액결제 시스템 운영 지원
-
+- 역할: 소액결제 시스템 운영 지원
 - 프로젝트 목표: 구글Play결제 연동, SKT 빌링 시스템과 연동
 
 ### 우리은행 방카슈랑스 (2014.06 ~ 2014.08)
 
-– 역할: 공통 업무개발(운영공통 배치, 보험사 배치, 보험 레포트)
-
+- 역할: 공통 업무개발(운영공통 배치, 보험사 배치, 보험 레포트)
 - 프로젝트 목표: 4개 금융기관(우리은행, 경남은행, 우리투자증권,?)의 방카슈랑스 시스템 구축
 - 특이사항: 오픈 몇 개월전 투입되어 공통 배치/ 레포트 프로그램 전체 개발함
 
 ### 유진투자증권 차세대 프로젝트 구축 안정화(2014.02 ~ 2014.05)
 
 - 역할: 출납 미진업무 담당(마이너스 대출, 집계 및 정산표, 지점 마감업무 개발)
-  – 프로젝트 목표: 증권 차세대 시스템 구축 (C와 PLSQL로 작성된 코스콤 원장 10년 사용 후, 전면 재구축)
+- 프로젝트 목표: 증권 차세대 시스템 구축 (C와 PLSQL로 작성된 코스콤 원장 10년 사용 후, 전면 재구축)
 
 ### 한화투자증권 차세대 시스템 구축 및 안정화 프로젝트 (2012.07 ~ 2013.12)
 
 - 역할: 출납 분석/ 설계/ 개발 담당
-  – 프로젝트 목표: 증권 차세대 시스템 구축(C와 PLSQL로 작성된 코스콤 원장 10년 사용 후, 전면 재구축 )
+- 프로젝트 목표: 증권 차세대 시스템 구축(C와 PLSQL로 작성된 코스콤 원장 10년 사용 후, 전면 재구축 )
 - 특이사항: 대신/한투 증권에서 출납업무를 연속해서 수행해 업무와 개발, 프로젝트 노하우 3박자를 갖췄음.
   출납업무 설계부터 개발과 오픈 후 안정화 4개월까지 수행하고 철수.
 
@@ -120,16 +115,16 @@ author_profile: true
 
 - 역할: 출납 개발 (입/출금, 대출및 대차)
 - 프로젝트 목표: 1단계 IBM이 분석/설계함. 2단계 사업자로 참여해 분석/설계/구축까지 차세대 시스템 구축
-  – 기술사항: java, ncrm, oracle
+- 기술사항: java, ncrm, oracle
 - 특이사항: ASIS가 SMALL TALK인 것을 JAVA로 전환. 보통 증권사는 코스콤 소스를 기반인데 전혀 다른 기술이었음.
 
 ### 대신증권 차세대시스템 구축 및 안정화 프로젝트(2008.03 ~ 2009.09)
 
-– 역할: 은행연계망 이체시스템 개발
-(당시 지급결제망 이전임. 이후 대신증권은 지급결제망 프로젝트를 진행함)
+- 역할: 은행연계망 이체시스템 개발
+  (당시 지급결제망 이전임. 이후 대신증권은 지급결제망 프로젝트를 진행함)
 
 - 프로젝트 목표: 증권사 차세대 시스템 구축
-  – 특이사항 : 당시 증권사 HTS와 IT 강자였던 대신은 PL1과 하이라키 DB로 구축된 원장시스템과 자체 화면솔루션 팀이 있었음.
+- 특이사항 : 당시 증권사 HTS와 IT 강자였던 대신은 PL1과 하이라키 DB로 구축된 원장시스템과 자체 화면솔루션 팀이 있었음.
 - 기술사항: java, oracle, websphere, IBM 솔루션 들.
 
 ## 기 술
@@ -138,36 +133,34 @@ author_profile: true
 
 ### 프로그래밍 언어
 
-– JAVA(10년 이상), C(3년), Visual Basic script(10년 이상), PL/ SQL(ASIS 소스 분석 가능), react 공부 중
+- JAVA(10년 이상), C(3년), Visual Basic script(10년 이상), PL/ SQL(ASIS 소스 분석 가능), react 공부 중
 
 ### 데이터 베이스
 
-– Oracle , MySql, MariaDB, PostgreSql
+- Oracle , MySql, MariaDB, PostgreSql
 
 ### IDE
 
-– Visual Studio Code, Eclipse, 소리마치, Formde​, WebSqaure
+- Visual Studio Code, Eclipse, 소리마치, Formde​, WebSqaure
 
 ### 프레임 워크
 
-– Nexcore C(SK), Nexcore Java(SK), Websphere(IBM), ProObject(TMax), Spring Boot
+- Nexcore C(SK), Nexcore Java(SK), Websphere(IBM), ProObject(TMax), Spring Boot
 
 ### 기타
 
-– Mybatis, ETL(Infomatica, IBM DataStage), DB 모델링(Power Designer, ERWin),Meta Systme, Orange, Golden, Sql developer
-– OZ Report, H2O Report, report Designer
-– Harvest, CVS, git, SVN
-– Control M, Nexcore Batch Scheduler​
-
+- Mybatis, ETL(Infomatica, IBM DataStage), DB 모델링(Power Designer, ERWin),Meta Systme, Orange, Golden, Sql developer
+- OZ Report, H2O Report, report Designer
+- Harvest, CVS, git, SVN
+- Control M, Nexcore Batch Scheduler​
 - jenkins구축 및 사용가능, ASTA(영향도 분석 툴)
 - MS계열 능숙( Access, OneNote, SharePoint, Excel, PowerPoint, Word)
 
 ### 자격증
 
-– 정보처리기사 (2005.08)
-– OCP 9i(2005.08)
-– SCJP(2009.08)
-
+- 정보처리기사 (2005.08)
+- OCP 9i(2005.08)
+- SCJP(2009.08)
 - 전산회계 1급 준비 중
 
 ---
