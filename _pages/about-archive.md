@@ -89,7 +89,7 @@ author_profile: true
 
 - 프로젝트 목표: 증권 차세대 시스템 구축. 10년 넘게 사용한 시스템(코스콤 원장이관)을 java 기반으로 전환.
   주요 과제로는 통합 거래내역, 통합잔고, 종합계좌 개설, 주문속도 개선 등
-- 기술: JAVA, TMAX Pro Object 프레임웍, Oracle, ETL, Control M,
+- 기술: JAVA, TMAX Pro Object 프레임웍, Oracle, ETL, Control M
 
 ### SKT DCB소액결제 고도화(2014.11 ~ 2015.02)
 
