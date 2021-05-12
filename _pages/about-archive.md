@@ -15,8 +15,8 @@ author_profile: true
 
 > 금융 SI 개발/관리 전문가
 > 증권 차세대 시스템 구축 프로젝트에 다수 참여했으며, ASIS 시스템을 분석해 핵심과제에 맞게 TOBE로 전환하는 역할을 수행함
-> 주로 ASIS 프로그램언어는 C,PL1, plsql, SMALL TALK, COBOL등으로 작성되었고, 이것을 JAVA로 전환하는(주문은 C로 전환) 프로젝트들 이었음.
-> 그래서 언어와 개발환경을 낯선 것이라도 남들이 작성한 소스를 분석하는 능력이 뛰어남.
+> 주로 ASIS 프로그램언어인 C,PL1, plsql, SMALL TALK, COBOL을 JAVA로 전환하는(주문은 C로 전환) 프로젝트들 이었음.
+> 그래서 언어와 개발환경을 낯선 것이라도 적응 및 소스를 분석하는 능력이 뛰어남.
 > ** 특히, 증권 입출금, 이체, 거래내역, 회계처리, 집계 및 마감 영역 업무에 익숙하며 대용량 배치 개발에도 능숙. **
 > 최근 4~5년간은 개발과 PL역할을 병행했으며, 차세대 보다 MSA 프로젝트, 모바일 (FRONT-END, BACK-END)프로젝트를 진행하며 새로운 아키텍쳐및 UI/UX영역에도 관심이 많음.
 >
@@ -138,11 +138,11 @@ author_profile: true
 
 ### 프로그래밍 언어
 
-– JAVA(10년 이상), Pro C(3년), Visual Basic script(10년 이상), PL/ SQL(ASIS 소스 분석 가능)
+– JAVA(10년 이상), C(3년), Visual Basic script(10년 이상), PL/ SQL(ASIS 소스 분석 가능), react 공부 중
 
 ### 데이터 베이스
 
-– Oracle SQL(10년 이상), MySql, MariaDB, PostgreSql
+– Oracle , MySql, MariaDB, PostgreSql
 
 ### IDE
 
@@ -154,10 +154,13 @@ author_profile: true
 
 ### 기타
 
-– Mybatis, ETL(Infomatica),Power Design(DB 설계툴), Orange for Oracle,Golden, Sql developer, jenkins, ASTA(영향도 분석 툴)
-– OZ Report, H2O Report
-– Harvest, CVS, git
+– Mybatis, ETL(Infomatica, IBM DataStage), DB 모델링(Power Designer, ERWin),Meta Systme, Orange, Golden, Sql developer
+– OZ Report, H2O Report, report Designer
+– Harvest, CVS, git, SVN
 – Control M, Nexcore Batch Scheduler​
+
+- jenkins구축 및 사용가능, ASTA(영향도 분석 툴)
+- MS계열 능숙( Access, OneNote, SharePoint, Excel, PowerPoint, Word)
 
 ### 자격증
 
