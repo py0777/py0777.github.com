@@ -1,16 +1,15 @@
-title: "order_menu"
-categories:
-
-  - manage
-tags: 
-  - programming homework
-
+    title:  "order_menu"
     
-
-toc: true
-toc_sticky: true
-toc_label: 목차
-popular: true
+    categories: 
+    
+      - Tech
+    tags:
+      - programming
+      - homework
+    toc: true
+    toc_label: "목차"
+    popular: true
+    
 
 
 
