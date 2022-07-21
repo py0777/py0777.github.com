@@ -1,3 +1,4 @@
+---
     title:  "simplebank"
     
     categories: 
@@ -7,8 +8,10 @@
       - programming
       - homework
     toc: true
+    toc_sticky: true
     toc_label: "목차"
     popular: true
+---
 
 # SIMPLE BANK
 
