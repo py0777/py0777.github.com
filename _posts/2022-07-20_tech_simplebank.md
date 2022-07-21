@@ -1,3 +1,15 @@
+    title:  "simplebank"
+    
+    categories: 
+    
+      - Tech
+    tags:
+      - programming
+      - homework
+    toc: true
+    toc_label: "목차"
+    popular: true
+
 # SIMPLE BANK
 
 ## 01.1 증권사 업무
