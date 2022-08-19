@@ -16,8 +16,8 @@
 # SIMPLE BANK
 
 ## 01.1 증권사 업무
-![D](/images/kis.jpg)  
-![D](/images/msa_step.jpg)  
+![D](./images/kis.jpg)  
+![D](./images/msa_step.jpg)  
 ## 01.2 증권사 인프라
 
 |**`파트`**|역할| 비고|
@@ -39,7 +39,7 @@
 
 
 ## 02.1 논리 ERD
-![D](/images/erd.jpg)  
+![D](./images/erd.jpg)  
 * `회원가입을 해야 계좌를 만들 수 있다.` - 고객은 별도 프로젝트로 분리함.
 
 ## 02.2 DDL
@@ -188,7 +188,7 @@ USE SB;
 ### 03.2 개발 표준 ###
 
 ### 03.2.1 서비스 구조 ###
-![D](/images/call_service.jpg)  
+![D](./images/call_service.jpg)  
 
 - 컨트롤러
   - REST API로 제공할 서비스를 등록  
@@ -210,11 +210,11 @@ USE SB;
 
 ## 04 테스트 ###
 ### 04.1 스웨거 ###
-![D](/images/swagger.jpg)  
+![D](./images/swagger.jpg)  
 ### 04.2 프롬프트 ###
-![D](/images/cmd.jpg)  
+![D](./images/cmd.jpg)  
 
 ### 04.3 toad sql ###
-![D](/images/toad_sql.jpg)  
+![D](./images/toad_sql.jpg)  
 ### 04.4 콘솔 ###
-![D](/images/console.jpg)  
+![D](./images/console.jpg)  
