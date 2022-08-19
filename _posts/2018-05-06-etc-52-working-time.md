@@ -11,7 +11,7 @@ toc_label: 목차
 popular: true
 ---
 
-![image](https://py0777.github.io/assets/image/52-working-time/52-working-time_1.jpg)
+![image](https://py0777.github.io/assets/image/52-working-time/52-working-time_1.png)
 
 ## 주 52시간 근무
 
