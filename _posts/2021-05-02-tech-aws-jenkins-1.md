@@ -45,5 +45,5 @@ $ netstat -tnl
 ```
 
 ## 5. 기타
-[centOS 포트변경](https://kim-jong-hyun.tistory.com/129){: .btn.btn-default target="_blank" }
+[centOS 포트변경](https://kim-jong-hyun.tistory.com/129){: .btn.btn-default target="_blank" }  
 [centOS 포트오픈](https://sd23w.tistory.com/465){: .btn.btn-default target="_blank" }
